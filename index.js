@@ -1,1 +1,9 @@
-
+var addition = 50;
+addition = addition + 5;
+var subtraction = 40;
+subtraction = subtraction - 1;
+var multiplication = 5;
+multiplication = multiplication * 7;
+var division = 6;
+division = division / 2;
+document.getElementById('result').innerHTML = multiplication; 
